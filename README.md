@@ -1,2 +1,2 @@
-# ttr-bg.github.io
+# ttr-bg
 Track Top Recycle Web Site
